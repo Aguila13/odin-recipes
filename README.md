@@ -1,2 +1,2 @@
 # odin-rec
-i Project of The Odin Project :D
+Project of The Odin Project :D
